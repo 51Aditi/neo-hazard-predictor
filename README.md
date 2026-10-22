@@ -62,6 +62,12 @@ python train_final.py
 streamlit run app.py
 ```
 
+# NEO Hazard Prediction
+
+🚀 **Live Demo:** [Try the NEO Hazard Predictor](https://neo-hazard-predictor-1.onrender.com/)
+
+Classifies whether a Near-Earth Object (asteroid) is hazardous based on its physical and orbital characteristics (diameter, relative velocity, miss distance, absolute magnitude).
+
 ## Notes
 
 - If you previously had a Gemini API key hardcoded in a notebook, revoke it
